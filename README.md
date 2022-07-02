@@ -18,7 +18,7 @@ Tells you to DM the bot
 
 
 ## Group Commands (works only in a group)
-*Bot initially started as a manually adding your group to it's list using /gstart but it now automatically adds a group into the list if it detects a message in the group*
+*Bot now automatically adds a group into the list if it detects a message in the group*
 
 ### /gstart
 
