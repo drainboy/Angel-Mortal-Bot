@@ -1,4 +1,4 @@
-# Angel-Mortal-Bot <img src="angel.jpg" width="100" height="200">
+# Angel-Mortal-Bot <img src="angel.jpg" width="100" height="100">
 
 A 🐍 Python Telegram 😇 Angel &amp;  Mortal Bot
 
