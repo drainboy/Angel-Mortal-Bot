@@ -24,10 +24,6 @@ Tells you to DM the bot
 
 Add group from bot's list
 
-### /gremove
-
-Remove group from bot's list (DEPRECREATED)
-
 ### /gstatus
 
 Check if group is included in bot's list
